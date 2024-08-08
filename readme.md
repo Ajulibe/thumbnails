@@ -46,3 +46,4 @@ open http://localhost:3000
 
 - If you want to add anything to the project, feel free to add your touch! 💅
 - You can access your DB content by running the command `npx prisma studio`
+# thumbnails
